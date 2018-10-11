@@ -1,0 +1,6 @@
+body {background-color: grey;}
+
+label, button, a, tr, td, div, option
+{ 
+    font-weight: bold; 
+}

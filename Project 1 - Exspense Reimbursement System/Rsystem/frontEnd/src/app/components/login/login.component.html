@@ -1,0 +1,32 @@
+<p style="padding-top: .75cm"></p>
+<form (submit)="loginFunction()">
+  <div class="form-group row"> 
+    <div class="col-1"></div>
+    <div class="col-4">
+      <label for="username">Username:</label>
+      <input type="text" name="username" required [(ngModel)] = "username"> 
+      <br><br>
+      <label for="password">Password:</label>
+      <input type="password" name="password" required [(ngModel)] = "password"> 
+      <br><br>
+      <button type="submit" class="btn btn-success" value="Login"><a>Login</a></button>
+      <br><br>
+      <div *ngIf="message"><label>{{message}}</label></div>
+    </div>
+  </div>
+</form>
+
+<!--
+  <div *ngIf="userData">
+  {{userData.ers_user_id}}
+  {{userData.ers_username}}
+  {{userData.ers_first_name}}
+  {{userData.ers_last_name}}
+  {{userData.user_email}}
+  {{userData.user_role_id}}
+</div>
+-->
+
+<!-- () = event binding -->
+  <!-- [] = properties binding -->
+  <!-- [()] = two way binding -->
