@@ -1,2 +1,9 @@
 # code-samples-for-Zachary-Ritchie
-Projects I have worked on at Revature 
+
+Project 0 - Console Bank App
+
+Project 1 - Exspense Reimbursement System
+
+Project 2 - Trip Planning App
+
+Project 3 - Rideforce
