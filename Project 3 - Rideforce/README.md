@@ -1,4 +1,3 @@
-Link to Repository: https://github.com/revaturelabs/rideshare-client
 
 ### Description
 
@@ -33,3 +32,6 @@ Link to Repository: https://github.com/revaturelabs/rideshare-client
 * Eureka 
 * Zuul
 * Oracle RDS
+
+Link to Repository: https://github.com/revaturelabs/rideshare-client
+
