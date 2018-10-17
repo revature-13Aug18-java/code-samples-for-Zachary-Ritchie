@@ -24,6 +24,7 @@ keep a checklist of trip essentials
   * CSS
   * Typescript
   * Bootstrap
+* Google Maps API
 * Pipeline
   * Elastic cloud computing instance
   * Jenkins with Github integration
