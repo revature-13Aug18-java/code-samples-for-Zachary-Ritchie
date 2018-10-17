@@ -1,6 +1,10 @@
 
 ### Description
 
+This application was created with the intention of connecting Revature associates with one another based on proximity and availablitiy. When starting at Revature, some associates may not have a car. In using this application associates can find drivers who are avalble to give rides.
+
+Within the first sprint we were given one week to create this application from scratch and have something presentable for executives. My role on this project was Angular team lead. This involved assigning tasks to team memebers, communicating with other team leads one connecting functionality, wrote code on the Angular/front end side of the application, and approved code changes submitted by team members as well as help with any questions they may have had. 
+
 ### Functionality
 
 * Users are able to access the application through either their mobile device or desktop browser and the view will adjust accordingly
