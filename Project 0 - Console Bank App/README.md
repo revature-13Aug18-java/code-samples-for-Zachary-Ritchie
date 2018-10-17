@@ -15,5 +15,3 @@ account, and that the application will not stop running if a user enters an inco
 * Java 1.8
 * Oracle DB
 * JDBC
-* You must include at least one of each: Statement, PreparedStatement, and CallableStatement
-* You must create a custom exception 
