@@ -6,7 +6,7 @@ Created a Banking app where a user communicates with the application through the
 
 ## Project 1 - Expense Reimbursement System
 
-The expense reimbursement system will manage the process of reimbursing employees for exspses incurred while on company time.
+The expense reimbursement system will manage the process of reimbursing employees for expenses incurred while on company time.
 
 ## Project 2 - Trip Planning App
 
