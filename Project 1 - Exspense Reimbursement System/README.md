@@ -8,6 +8,7 @@
 *The front-end view uses Angular to make a single page application that uses AJAX to call server-side components
 
 ### Tech Stack
+
 *Java 1.8
 *Oracle DB
 *JDBC
