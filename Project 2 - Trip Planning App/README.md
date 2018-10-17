@@ -4,7 +4,7 @@ Link to Repository: https://github.com/wayfinder-project/wayfinder
 
 This project consisted of six team members, including myslef, who each worked on different parts of this application. After brainstorming we decided to create a trip planning application. Within this application users can create trips, checklists for thier trips, as well as view previous trips. 
 
-My role on the project was working with the front end, Angular. 
+My role on the project was working with the front end, Angular. The component that I spent a lot of time working was our map compenent. With this part of the application, users mapped out their trips by placing waypoints on the map, and then getting inforamtion based on their waypoints. 
 
 ### Functionality
 
