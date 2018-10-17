@@ -4,6 +4,7 @@ Link to Repository: https://github.com/revaturelabs/rideshare-client
 
 ### Functionality
 
+
 ### Tech Stack
 * Java 1.8
 * Spring Boot
@@ -20,6 +21,6 @@ Link to Repository: https://github.com/revaturelabs/rideshare-client
   * S3 Bucket
   * Sonar Cube
   * Docker
-    * Eureka 
-    * Zule
+* Eureka 
+* Zuul
 * Oracle RDS
