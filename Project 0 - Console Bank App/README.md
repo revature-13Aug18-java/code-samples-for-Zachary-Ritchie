@@ -1,6 +1,6 @@
 Console Bank App
 
-### Requirements
+### Functionality
 
 * Created a Banking app where a user communicates with the application through the console
 * A user is be able to create an account
