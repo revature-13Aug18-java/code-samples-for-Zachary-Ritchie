@@ -17,3 +17,4 @@ Link to Repository: https://github.com/wayfinder-project/wayfinder
   * Jenkins with Github integration
   * Linux
   * Tomcat
+* Oracle RDS
