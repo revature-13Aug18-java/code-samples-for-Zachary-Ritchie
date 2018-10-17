@@ -1,4 +1,3 @@
-Link to Repository: https://github.com/wayfinder-project/wayfinder
 
 ### Description
 
@@ -31,3 +30,5 @@ keep a checklist of trip essentials
   * Linux
   * Tomcat
 * Oracle RDS
+
+Link to Repository: https://github.com/wayfinder-project/wayfinder
