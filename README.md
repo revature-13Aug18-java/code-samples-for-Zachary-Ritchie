@@ -12,10 +12,7 @@ The expense reimbursement system will manage the process of reimbursing employee
 
 Designed a trip planning application and consumed Googles map api.
 
-Link to Repository: https://github.com/wayfinder-project/wayfinder
-
 ## Project 3 - Rideforce
 
 Developed an application that matches Revature employees with coworkers who can provide rides to work. 
 
-Link to Repository: https://github.com/revaturelabs/rideshare-client
